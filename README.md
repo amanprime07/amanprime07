@@ -2,9 +2,10 @@
 
 Staff Engineer. ~12 years on distributed backend systems — event-driven
 architecture, Kafka/CDC pipelines, microservices, and the cloud-native
-infrastructure they sit on. Day to day I work in a large TypeScript monorepo
-and spend most of my time on system design, clean architecture, and developer
-tooling.
+infrastructure they sit on. Java, Kotlin, Go and TypeScript on the backend,
+Python for tooling and scripts; currently working day to day in a large
+TypeScript monorepo. Most of my time goes to system design, clean
+architecture, and developer tooling.
 
 #### Selected work
 
